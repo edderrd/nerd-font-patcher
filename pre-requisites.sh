@@ -1,3 +1,3 @@
 $!/usr/bin/sh
 
-brew install fontforge svn
+brew install fontforge
