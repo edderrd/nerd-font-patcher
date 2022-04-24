@@ -1,6 +1,8 @@
 Nerd Font Patcher
 ===
 
+Nerd Fonts Patcher utility
+
 ## Setup
 
 ### Pre-Requisites
